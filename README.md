@@ -27,7 +27,7 @@ Download the script directly with `wget`:
 ```bash
 wget https://raw.githubusercontent.com/diegorezm/autosuspend.sh/refs/heads/main/autosuspend.sh
 chmod +x autosuspend.sh
-mv autosuspend.sh ~/.local/bin/autosuspend.sh
+mv autosuspend.sh ~/.local/bin/
 ```
 
 To make it available system-wide, move it to a directory in your `$PATH`
